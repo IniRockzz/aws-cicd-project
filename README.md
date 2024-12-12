@@ -32,7 +32,7 @@ After logging into your AWS account, search for EC2
 ![1c](https://github.com/user-attachments/assets/40b4c88d-5bd7-45d5-93f3-ec48c7f2c4c5)
 
 Select **Instances(running)**
-![3](https://user-images.githubusercontent.com/102405945/211756073-a00f53a0-d24b-4b9a-a6e7-ba4e4e3d4395.png)
+![Iniyavan](https://github.com/user-attachments/assets/646840ed-b163-4d8e-b437-ddbd5a329c3a)
 
 Click **Launch instances**
 ![4](https://user-images.githubusercontent.com/102405945/211756098-ef0517b6-21f5-4f87-b126-877e4848bf3f.png)
