@@ -23,3 +23,11 @@
 Before we write any CI/CD pipeline we need an application to test and deploy. We are going to build a simple **to-do application** in node.js. Then, create new repository under your GitHub account and name it “node-todo-cicd”.
 
 ![Screenshot 2024-12-12 095319](https://github.com/user-attachments/assets/9e3204d5-90cb-4644-9832-9ae86c6de0b6)
+
+
+## 2. Creating AWS EC2 instance
+
+### 2.1 Creating AWS EC2 instance
+After logging into your AWS account, search for EC2
+
+
