@@ -166,41 +166,6 @@ On console, run the following commands: <br>
 
 
 
-## 4. Automating using Docker
-
-## 4.1 Install Docker
-Remove Dockerfile and install Docker using following command: <br>
-**sudo rm Dockerfile** <br>
-**sudo apt install docker.io** <br>
-![57](https://user-images.githubusercontent.com/102405945/211811699-e22e7e86-837c-425a-9f28-8a07e6242d6c.png)
-
-## 4.2 Create Dockerfile
-Edit Dockerfile using the command **sudo vim Dockerfile** and add following commands within it: <br>
-**FROM node:12.2.0-alpine** <br>
-**WORKDIR app** <br>
-**COPY . .** <br>
-**RUN npm install** <br>
-**EXPOSE 8000** <br>
-**CMD ["node", "app.js"]** <br>
-![58](https://user-images.githubusercontent.com/102405945/211811726-0638ac1b-94e2-4581-9066-75e6b8e2b2ac.png)
-
-## 4.3 Build Docker
-On console, enter the following commands:
-**sudo usernod -a -G docker $USER** <br>
-**sudo reboot** <br>
-To give permission to docker and reboot the system
-![59](https://user-images.githubusercontent.com/102405945/211811758-ac46d053-c589-4af8-82ca-ac3ed65b560b.png)
-After restarting, enter the following command: <br>
-**sudo build . -t todo-node-app** <br>
-![63](https://user-images.githubusercontent.com/102405945/211811786-451dd302-58a9-4bd5-bf4c-8741978a738c.png)
-
-
-## 4.4 Run Docker
-After building docker, enter the following command: <br>
-**docker run -d --name node-todo-app -p 8000:8000 todo-node-app** <br>
-To check status of container **docker ps** <br>
-![64](https://user-images.githubusercontent.com/102405945/211811806-f4f2eb1d-d4be-4b0a-910d-acbf60f97d7c.png)
-![65](https://user-images.githubusercontent.com/102405945/211811820-1c82be6d-b3f5-4742-aa72-b3be9be4b194.png)
 
 
 
@@ -234,53 +199,8 @@ Click on **Build Now** on the left pane
 
 
 
-## 6. Trigger Jenkins pipelines automatically once the code is pushed on GitHub (Webhooks)
-
-### 6.1 Install plugin
-On console, enter the following commands to terminate a container: <br>
-**docker ps** <br>
-**docker kill <containerid>** <br>
-![77](https://user-images.githubusercontent.com/102405945/211855122-2c1e344d-caaf-4a90-8d3f-63216d2ae619.png)
-![78](https://user-images.githubusercontent.com/102405945/211855175-367b4652-fd6c-4b95-a0a1-028c6aaea56d.png)
-
-On jenkins, go to dashboard and select the project. For me, it is **todo-node-app**
-![79](https://user-images.githubusercontent.com/102405945/211855229-b7feea1c-0524-449e-8402-852b9bc18ba9.png)
-
-Click on **Manage Jenkins** on the left pane and then click on **Manage Plugins**
-![80](https://user-images.githubusercontent.com/102405945/211855270-9fd20815-7b72-43a3-8435-440c4fbfb0c8.png)
-
-Search for **GitHub Integration** and select **GitHub Integration**. Finally, click on **Download without restart**
-![82](https://user-images.githubusercontent.com/102405945/211855356-d251d724-d4be-4176-a24a-cab09a09676c.png)
-![83](https://user-images.githubusercontent.com/102405945/211855373-ced17abb-65c5-47bf-8c7d-532c76cc78fd.png)
 
 
-### 6.2 Configure inbound rules of port 8080
-On aws, go to instances and click on **Security** pane
-![88](https://user-images.githubusercontent.com/102405945/211857801-0f09c615-74e5-4c75-8256-6d4a3758f7fe.png)
-
-Edit inbound traffic of port 8080 to **Anywhere IPv4** and click **Save rules**
-![89](https://user-images.githubusercontent.com/102405945/211857830-b62f54d5-ca35-46d3-81fd-dd99510873de.png)
-![90](https://user-images.githubusercontent.com/102405945/211857845-ab57cbb4-9f9c-48fb-9ef5-b4d968e934fa.png)
-
-### 6.3 Configure webhook in GitHub
-Go to GitHub and click **Settings**
-![84](https://user-images.githubusercontent.com/102405945/211857936-1888dbab-233c-43f4-a3a9-f9893bdd44a7.png)
-
-Ensure that SSH and GPG keys are present on your GitHub account
-![85](https://user-images.githubusercontent.com/102405945/211857997-d5e79b34-a202-4dbd-857e-6bf20511b1de.png)
-
-Now, click on **repository settings**
-![86](https://user-images.githubusercontent.com/102405945/211858028-de1dec4b-9da1-4817-98f3-bd2924d1a1ac.png)
-
-Click on **Webhooks** on left pane and click on **Add webhook** to add a webhook
-![87](https://user-images.githubusercontent.com/102405945/211858058-6015568f-a09d-4fc2-9d56-da9c43bea8a2.png)
-
-Add Payload URL and select content type as **application/json**
-![91](https://user-images.githubusercontent.com/102405945/211858098-29c67833-2c2b-4d36-b72c-40b374a6f50a.png)
-
-Finally, click **Add webhook**
-![92](https://user-images.githubusercontent.com/102405945/211858162-dddb3be9-41b3-4b0f-a159-a74162c0ab65.png)
-![93](https://user-images.githubusercontent.com/102405945/211858197-72fb7203-8078-4b2c-be51-abf2b6969a3a.png)
 
 
 
@@ -292,8 +212,7 @@ Click on **Build Triggers** on left pane and enable **GitHub hook trigger for GI
 ![95](https://user-images.githubusercontent.com/102405945/211859617-d48b1e56-8bb8-4b29-9c69-597ca9d9b397.png)
 
 ## Testing
-Go to GitHub project repository and edit the project. Click **Commit changes**
-![96](https://user-images.githubusercontent.com/102405945/211859643-af476c53-d9e6-4413-ae86-7c711ea3f6b3.png)
+
 
 Clearly, Jenkins pipeline are triggered as the code is pushed on GitHub
 ![97](https://user-images.githubusercontent.com/102405945/211859669-6eb83c45-2a41-4e63-9c51-db3e8fcabeb7.png)
