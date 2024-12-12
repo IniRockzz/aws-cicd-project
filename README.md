@@ -35,8 +35,7 @@ Select **Instances(running)**
 ![Iniyavan](https://github.com/user-attachments/assets/646840ed-b163-4d8e-b437-ddbd5a329c3a)
 
 Click **Launch instances**
-![4](https://user-images.githubusercontent.com/102405945/211756098-ef0517b6-21f5-4f87-b126-877e4848bf3f.png)
-
+![Iniyavan1](https://github.com/user-attachments/assets/fee7a20e-0e96-4579-8425-fbdf3dc7d05c)
 Enter Name and select **Ubuntu**
 ![5](https://user-images.githubusercontent.com/102405945/211756124-6936130d-84e4-4c9d-8faa-755ff9ddf514.png)
 
