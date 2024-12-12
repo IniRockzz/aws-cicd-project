@@ -85,7 +85,8 @@ Start jenkins using following commands: <br>
 **sudo systemctl enable jenkins**<br>
 **sudo systemctl start jenkins**<br>
 **sudo systemctl status jenkins**<br>
-![17](https://user-images.githubusercontent.com/102405945/211760952-c3984654-00de-4c47-8e2f-b1f31a9aba2d.png)
+![Iniyavan12](https://github.com/user-attachments/assets/58c210bd-e29d-434c-a63a-2576d338e9b0)
+
 
 ### 3.4 Open port 8080 from AWS Console
 Go to Instances. Click on Security tab
