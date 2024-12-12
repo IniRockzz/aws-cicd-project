@@ -70,7 +70,6 @@ Install Java using following commands: <br>
 **java -version**<br>
 ![Iniyavan9](https://github.com/user-attachments/assets/98596647-a058-4c73-bc3b-4c2c3d0097ae)
 ![Iniyavan10](https://github.com/user-attachments/assets/444bbf77-ce4c-476a-a316-f764c489ffab)
-![14](https://user-images.githubusercontent.com/102405945/211758628-299332b3-cfc1-4f4a-a27a-85af87b45817.png)
 
 ### 3.2 Installing Jenkins
 Install Jenkins using following commands: <br>
@@ -78,8 +77,8 @@ Install Jenkins using following commands: <br>
 **echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \   https://pkg.jenkins.io/debian binary/ | sudo tee \   /etc/apt/sources.list.d/jenkins.list > /dev/null**<br>
 **sudo apt-get update**<br>
 **sudo apt-get install jenkins**<br>
-![15](https://user-images.githubusercontent.com/102405945/211760572-4f5ec5b4-f52c-451f-9fe1-028241759235.png)
-![16](https://user-images.githubusercontent.com/102405945/211760685-c9b9da1d-d544-428b-b3a5-09e5b72f7f7c.png)
+![Iniyavan11](https://github.com/user-attachments/assets/0d8e1504-19c5-45de-af1c-e2ac488ed9d1)
+
 
 ### 3.3 Start Jenkins
 Start jenkins using following commands: <br>
