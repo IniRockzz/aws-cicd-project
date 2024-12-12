@@ -58,7 +58,7 @@ Click **Connect** on the top of the screen
 ![Iniyavan7](https://github.com/user-attachments/assets/76254530-f4cf-415f-8f50-f7a56c777c5d)
 
 Click **Connect**
-![11](https://user-images.githubusercontent.com/102405945/211757652-86ebdc4d-1528-4d3b-8160-dddd77b5ed0d.png)
+![Iniyavan8](https://github.com/user-attachments/assets/2f018ef3-8f14-4ef1-91f7-924e6d0ec2d8)
 
 
 ## 3. Installing Jenkins on AWS
