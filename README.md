@@ -139,10 +139,9 @@ Copy the public key
 
 
 Click on **SSH and GPS keys** on the left pane and click on **Add SSH key**
-![39](https://user-images.githubusercontent.com/102405945/211767369-dd05d32c-c87c-4637-9056-6d675a01459f.png)
+![Screenshot 2024-12-12 115617](https://github.com/user-attachments/assets/714289ed-38d2-4def-a18b-0829254736d3)
+![Screenshot 2024-12-12 115650](https://github.com/user-attachments/assets/44d1326f-76d1-41a7-97a1-f8f291ff6801)
 
-Paste the SSH key and click **Add SSH key**
-![40](https://user-images.githubusercontent.com/102405945/211767410-9b2a26c0-779d-4f64-946f-229ebce031ea.png)
 Go to Jenkins, and select **SSH Username with private key** in kind
 ![41](https://user-images.githubusercontent.com/102405945/211767451-530ca1d9-1ea2-49c9-9637-c82a6a415357.png)
 On console, enter the command **cat id_rsa** and copy the private key
