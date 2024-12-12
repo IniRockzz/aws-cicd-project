@@ -90,8 +90,6 @@ Start jenkins using following commands: <br>
 
 ### 3.4 Open port 8080 from AWS Console
 Go to Instances. Click on Security tab
-![Iniyavan13](https://github.com/user-attachments/assets/c975f4f9-9669-4807-ae62-da5b368959ac)
-Click on the link below Security groups
 ![Iniyavan13](https://github.com/user-attachments/assets/a39ba153-953a-4ae0-96a2-640182a0dd25)
 Click on **Edit inbound rules**
 ![20](https://user-images.githubusercontent.com/102405945/211761553-008189c7-b351-4706-829a-accaf4dd02ec.png)
