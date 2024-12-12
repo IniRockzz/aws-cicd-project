@@ -175,12 +175,7 @@ On console, run the following commands: <br>
 On console, enter the following commands to terminate a container: <br>
 **docker ps** <br>
 **docker kill <containerid>** <br>
-![Iniyavan19](https://github.com/user-attachments/assets/ea3e6fc7-647c-4652-81d8-9f3f07b320b2)
 
-
-
-On jenkins, go to dashboard and select the project. For me, it is **todo-node-app**
-![71](https://user-images.githubusercontent.com/102405945/211852522-4ade2baa-db4c-4157-9e9c-cfafce28f905.png)
 
 Click on **configure** on the left pane
 ![72](https://user-images.githubusercontent.com/102405945/211852679-b8e4945c-6b11-49bf-8940-08ea5790c524.png)
