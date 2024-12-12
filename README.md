@@ -69,7 +69,7 @@ Install Java using following commands: <br>
 **sudo apt install openjdk-22-jre**<br>
 **java -version**<br>
 ![Iniyavan9](https://github.com/user-attachments/assets/98596647-a058-4c73-bc3b-4c2c3d0097ae)
-![13](https://user-images.githubusercontent.com/102405945/211758553-a5e8f47e-638a-4a36-bcfa-db6a03ac3c5b.png)
+![Iniyavan10](https://github.com/user-attachments/assets/444bbf77-ce4c-476a-a316-f764c489ffab)
 ![14](https://user-images.githubusercontent.com/102405945/211758628-299332b3-cfc1-4f4a-a27a-85af87b45817.png)
 
 ### 3.2 Installing Jenkins
