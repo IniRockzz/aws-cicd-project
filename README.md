@@ -91,11 +91,9 @@ Start jenkins using following commands: <br>
 ### 3.4 Open port 8080 from AWS Console
 Go to Instances. Click on Security tab
 ![Iniyavan13](https://github.com/user-attachments/assets/a39ba153-953a-4ae0-96a2-640182a0dd25)
-Click on **Edit inbound rules**
-![20](https://user-images.githubusercontent.com/102405945/211761553-008189c7-b351-4706-829a-accaf4dd02ec.png)
+
 Click on **Add rule** and add port 8080 and select **My IP** and then click **Save rules**
-![21](https://user-images.githubusercontent.com/102405945/211761596-7d06f0a1-f2d7-410e-bb44-9e0f5a987ecc.png)
-![22](https://user-images.githubusercontent.com/102405945/211761624-4762a332-f20c-41c2-88a0-23e92a5186c7.png)
+![Iniyavan14](https://github.com/user-attachments/assets/67f5f007-8678-4cd3-ac60-a62e7f7861b0)
 
 ### 3.5 Unlock Jenkins
 Open port 8080 on new tab
