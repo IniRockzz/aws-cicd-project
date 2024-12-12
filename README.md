@@ -134,8 +134,8 @@ Generate SSH key on console using following commands: <br>
 **cat id_rsa_pub** <br>
 Copy the public key
 ![Iniyavan15](https://github.com/user-attachments/assets/16a0f750-3779-4063-be6d-1277689b4241)
-![36](https://user-images.githubusercontent.com/102405945/211767284-65ecd0ee-27fe-4db5-b0fc-56be725e85bd.png)
-![37](https://user-images.githubusercontent.com/102405945/211767299-10ac5fdb-9812-4f87-aeae-3f774757bd4d.png)
+![Iniyavan16](https://github.com/user-attachments/assets/98b532ae-afd2-4957-aeb5-73f99a6add09)
+![Iniyavan17](https://github.com/user-attachments/assets/9b522504-fb2f-4bea-ba7e-e8348e25ab45)
 
 Go to GitHub. Click on **Settings**
 ![38](https://user-images.githubusercontent.com/102405945/211767336-6f0ac758-7f80-432c-b084-924671fcc8fa.png)
