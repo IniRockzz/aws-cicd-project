@@ -202,7 +202,7 @@ Click on **Build Now** on the left pane
 
 ### 4.2 Configure Jenkins
 Go to Jenkins Job and click on **configure** on left pane
-![94](https://user-images.githubusercontent.com/102405945/211859591-c28c92b5-4f6b-4c07-9798-4fa96172f7e6.png)
+
 
 Click on **Build Triggers** on left pane and enable **GitHub hook trigger for GITScm polling. Finally, click **Save**
 ![95](https://user-images.githubusercontent.com/102405945/211859617-d48b1e56-8bb8-4b29-9c69-597ca9d9b397.png)
