@@ -178,7 +178,7 @@ On console, enter the following commands to terminate a container: <br>
 
 
 Click on **configure** on the left pane
-![72](https://user-images.githubusercontent.com/102405945/211852679-b8e4945c-6b11-49bf-8940-08ea5790c524.png)
+![Screenshot 2024-12-12 122108](https://github.com/user-attachments/assets/1117550c-ee59-42b0-8ff8-99601056c9d5)
 
 Click on **Build Steps** on the left pane and then select **Execute shell** in the Build Steps section
 ![73](https://user-images.githubusercontent.com/102405945/211852724-4f2d183b-7b4d-4f2e-a6a0-2a5b24f0bfe2.png)
