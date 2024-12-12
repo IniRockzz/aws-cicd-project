@@ -169,9 +169,9 @@ On console, run the following commands: <br>
 
 
 
-## 5. Automating using Jenkins (CICD pipelines)
+## 4. Automating using Jenkins (CICD pipelines)
 
-### 5.1 Automating commands using Jenkins (Execute shell)
+### 4.1 Automating commands using Jenkins (Execute shell)
 On console, enter the following commands to terminate a container: <br>
 **docker ps** <br>
 **docker kill <containerid>** <br>
@@ -204,7 +204,7 @@ Click on **Build Now** on the left pane
 
 
 
-### 6.3 Configure Jenkins
+### 4.2 Configure Jenkins
 Go to Jenkins Job and click on **configure** on left pane
 ![94](https://user-images.githubusercontent.com/102405945/211859591-c28c92b5-4f6b-4c07-9798-4fa96172f7e6.png)
 
