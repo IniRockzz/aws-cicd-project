@@ -50,12 +50,12 @@ Enter **key pair name** and select **RSA** as Key pair type and **.pem** as Priv
 Finally, click **Launch instance**
 ![Iniyavan6](https://github.com/user-attachments/assets/a7ef0534-d77e-41cb-b21e-941cf03391eb)
 
-![9](https://user-images.githubusercontent.com/102405945/211756212-4c5b0a85-e4aa-4270-b5e0-32cd973915a4.png)
+
 
 
 ### 2.2 Connecting AWS EC2 instance
 Click **Connect** on the top of the screen
-![10](https://user-images.githubusercontent.com/102405945/211757625-5b5670e8-ed7d-4f31-9de2-0918a1337ede.png)
+![Iniyavan7](https://github.com/user-attachments/assets/76254530-f4cf-415f-8f50-f7a56c777c5d)
 
 Click **Connect**
 ![11](https://user-images.githubusercontent.com/102405945/211757652-86ebdc4d-1528-4d3b-8160-dddd77b5ed0d.png)
