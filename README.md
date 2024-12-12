@@ -99,8 +99,7 @@ Click on **Add rule** and add port 8080 and select **My IP** and then click **Sa
 Open port 8080 on new tab
 ![23](https://user-images.githubusercontent.com/102405945/211763309-270c2fe1-db98-43c6-9b39-032affcf4e38.png)
 
-On console, type the command **sudo cat /var/lib/jenkins/secrets/initialAdminPassword** and copy the password
-![24](https://user-images.githubusercontent.com/102405945/211763345-85dcd1a5-78db-4770-a7b5-392248f23909.png)
+
 
 Paste the password in Administrator password to unlock jenkins
 ![25](https://user-images.githubusercontent.com/102405945/211763367-b2d215be-ea2b-4a45-bb20-2ec3acef41fe.png)
