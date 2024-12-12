@@ -156,36 +156,12 @@ Enter ***/master** in Branch Specifier and click **Save**
 ![45](https://user-images.githubusercontent.com/102405945/211767592-a9aaf324-878b-4716-a2f6-0de181d67b78.png)
 
 
-### 3.6 Get code in jenkins
-In jenkins, click on **Build Now** on the left pane
-![46](https://user-images.githubusercontent.com/102405945/211769407-1f79b77a-8f34-4966-9938-d70121f5305d.png)
-
-Now, click on **#1** and select **Console Output** to view the console
-![48](https://user-images.githubusercontent.com/102405945/211769445-03122663-f40d-43fc-9e6a-83d545e87e27.png)
-![49](https://user-images.githubusercontent.com/102405945/211769487-4ab1a5c4-2c22-4cdc-9462-1ba62cf0bed4.png)
-
-To check whether we got the code on EC2 instance, go to console, and enter the following commands: <br>
-**sudo cd /var/lib/jenkins/workspace/todo-node-app** <br>
-**ls** <br>
-Clearly, the code is present in this directory
-![50](https://user-images.githubusercontent.com/102405945/211769557-f8f0f62e-b426-481d-b209-11b09e6f61f1.png)
-
-
-### 3.7 Change permission of inbound traffic of port 8000
-Click **Add rule** and enter port number 8000 and select **Anywhere IPv4** it can be accessed by anyone. Click **Save rules**
-![54](https://user-images.githubusercontent.com/102405945/211807365-5fe644dd-7223-4a2e-8ef7-247517eec3b2.png)
-![55](https://user-images.githubusercontent.com/102405945/211807378-983373e8-93d5-4876-89ba-32699362e9ef.png)
-
-
-### 3.8 Run node.js application
+### 3.6 Run node.js application
 On console, run the following commands: <br>
 **sudo apt install nodejs** <br>
 **sudo apt install npm** <br>
 **npm install** <br>
 **node app.js** <br>
-![51](https://user-images.githubusercontent.com/102405945/211807429-539b13f6-cc36-4c9a-8d62-c17202247151.png)
-![52](https://user-images.githubusercontent.com/102405945/211807441-5f3e28fd-5f4b-491f-809d-b232449c90c6.png)
-![53](https://user-images.githubusercontent.com/102405945/211807456-4fe867de-817f-4a4f-afd9-53c7e3546a37.png)
 ![56](https://user-images.githubusercontent.com/102405945/211807470-1bd37f3f-1e7e-4234-aa6a-f3b24fce6fd2.png)
 
 
