@@ -44,7 +44,8 @@ Select **t2.micro** as Instance type and create new key pair to connect to the s
 
 
 Enter **key pair name** and select **RSA** as Key pair type and **.pem** as Private key file format. Then, click **Create key pair**
-![7](https://user-images.githubusercontent.com/102405945/211756153-68eb2114-beb3-437c-b7e9-702d32c936fb.png)
+![Iniyavan5](https://github.com/user-attachments/assets/af3cd032-1429-4c92-8e0f-7cf5dc7ab1eb)
+
 
 Finally, click **Launch instance**
 ![8](https://user-images.githubusercontent.com/102405945/211756187-90c18d04-b83b-4f6d-b24f-3cb68c3bf28a.png)
