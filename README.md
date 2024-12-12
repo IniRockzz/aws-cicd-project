@@ -92,7 +92,7 @@ Start jenkins using following commands: <br>
 Go to Instances. Click on Security tab
 ![Iniyavan13](https://github.com/user-attachments/assets/c975f4f9-9669-4807-ae62-da5b368959ac)
 Click on the link below Security groups
-![19](https://user-images.githubusercontent.com/102405945/211761517-f85d3794-89ec-42f1-bd68-b8d9f1fe6c7b.png)
+![Iniyavan13](https://github.com/user-attachments/assets/a39ba153-953a-4ae0-96a2-640182a0dd25)
 Click on **Edit inbound rules**
 ![20](https://user-images.githubusercontent.com/102405945/211761553-008189c7-b351-4706-829a-accaf4dd02ec.png)
 Click on **Add rule** and add port 8080 and select **My IP** and then click **Save rules**
