@@ -97,7 +97,7 @@ Click on **Add rule** and add port 8080 and select **My IP** and then click **Sa
 
 ### 3.5 Unlock Jenkins
 Open port 8080 on new tab
-![23](https://user-images.githubusercontent.com/102405945/211763309-270c2fe1-db98-43c6-9b39-032affcf4e38.png)
+![Screenshot 2024-12-12 122628](https://github.com/user-attachments/assets/697e171e-093b-49f1-ad55-3182aaffcdde)
 
 
 
