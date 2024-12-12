@@ -29,6 +29,6 @@ Before we write any CI/CD pipeline we need an application to test and deploy. We
 
 ### 2.1 Creating AWS EC2 instance
 After logging into your AWS account, search for EC2
-![Screenshot 2024-12-12 093009](https://github.com/user-attachments/assets/2b290e75-245b-4765-831f-044a189b0d8b)
+![1c](https://github.com/user-attachments/assets/40b4c88d-5bd7-45d5-93f3-ec48c7f2c4c5)
 
 
