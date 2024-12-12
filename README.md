@@ -133,7 +133,7 @@ Generate SSH key on console using following commands: <br>
 **cd .ssh** <br>
 **cat id_rsa_pub** <br>
 Copy the public key
-![35](https://user-images.githubusercontent.com/102405945/211767270-54cf0dbd-2fc5-49c3-9fc4-7983eef0b9bb.png)
+![Iniyavan15](https://github.com/user-attachments/assets/16a0f750-3779-4063-be6d-1277689b4241)
 ![36](https://user-images.githubusercontent.com/102405945/211767284-65ecd0ee-27fe-4db5-b0fc-56be725e85bd.png)
 ![37](https://user-images.githubusercontent.com/102405945/211767299-10ac5fdb-9812-4f87-aeae-3f774757bd4d.png)
 
