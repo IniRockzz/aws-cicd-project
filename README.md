@@ -48,7 +48,8 @@ Enter **key pair name** and select **RSA** as Key pair type and **.pem** as Priv
 
 
 Finally, click **Launch instance**
-![8](https://user-images.githubusercontent.com/102405945/211756187-90c18d04-b83b-4f6d-b24f-3cb68c3bf28a.png)
+![Iniyavan6](https://github.com/user-attachments/assets/a7ef0534-d77e-41cb-b21e-941cf03391eb)
+
 ![9](https://user-images.githubusercontent.com/102405945/211756212-4c5b0a85-e4aa-4270-b5e0-32cd973915a4.png)
 
 
