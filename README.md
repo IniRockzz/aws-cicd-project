@@ -137,8 +137,6 @@ Copy the public key
 ![Iniyavan16](https://github.com/user-attachments/assets/98b532ae-afd2-4957-aeb5-73f99a6add09)
 ![Iniyavan17](https://github.com/user-attachments/assets/9b522504-fb2f-4bea-ba7e-e8348e25ab45)
 
-Go to GitHub. Click on **Settings**
-![38](https://user-images.githubusercontent.com/102405945/211767336-6f0ac758-7f80-432c-b084-924671fcc8fa.png)
 
 Click on **SSH and GPS keys** on the left pane and click on **Add SSH key**
 ![39](https://user-images.githubusercontent.com/102405945/211767369-dd05d32c-c87c-4637-9056-6d675a01459f.png)
