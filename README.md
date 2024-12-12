@@ -37,7 +37,7 @@ Select **Instances(running)**
 Click **Launch instances**
 ![Iniyavan1](https://github.com/user-attachments/assets/fee7a20e-0e96-4579-8425-fbdf3dc7d05c)
 Enter Name and select **Ubuntu**
-![5](https://user-images.githubusercontent.com/102405945/211756124-6936130d-84e4-4c9d-8faa-755ff9ddf514.png)
+![Iniyavan3](https://github.com/user-attachments/assets/097b9b68-5308-4f3f-9d09-12be4c5b61d1)
 
 Select **t2.micro** as Instance type and create new key pair to connect to the server
 ![6](https://user-images.githubusercontent.com/102405945/211756138-1ffe145b-1902-4ab3-99cc-ca2b83688491.png)
